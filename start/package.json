@@ -1,0 +1,31 @@
+{
+  "name": "cedrus-training-tdd",
+  "version": "1.0.0",
+  "description": "Cedrus project to facilitate learning TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node ./src",
+    "test:coverage": "istanbul cover --include-all-sources --root ./src jasmine-node src",
+    "test:watch": "jasmine-node ./src --autotest --watch ./src --color"
+  },
+  "keywords": [
+    "cedrus",
+    "training",
+    "tdd",
+    "bdd",
+    "test",
+    "driven",
+    "development",
+    "behavior"
+  ],
+  "author": "Matt Johnson (src-system42)",
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine-node": "^1.14.5",
+    "nock": "^9.2.5"
+  },
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
