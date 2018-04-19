@@ -32,7 +32,7 @@ Programmer cliches! Write a class that covers Hello World, foo/bar/baz/etc, and 
 
 ## Module 3: Async, Mocking, Stubbing, Spying
 
-LolCat service.  Translate from English to LolCat. Store a local cached dictionary of words.
+LolCat service.  Translate from English to LolCat.
 
 0. Async call
 1. Stubs via spy
