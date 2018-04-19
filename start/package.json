@@ -21,11 +21,12 @@
   "author": "Matt Johnson (src-system42)",
   "license": "MIT",
   "devDependencies": {
-    "istanbul": "^0.4.5",
+    "istanbul": "^1.0.0-alpha.2",
     "jasmine-node": "^1.14.5",
     "nock": "^9.2.5"
   },
   "dependencies": {
-    "axios": "^0.18.0"
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
   }
 }

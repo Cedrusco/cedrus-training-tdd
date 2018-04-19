@@ -1,5 +1,9 @@
+/**
+ * Class for running many programming cliches
+ */
 class ProgrammerCliches {
   constructor() {
+    // https://en.wikipedia.org/wiki/Metasyntactic_variable
     this.metasyntacticVars = [
       'foo',
       'bar',
