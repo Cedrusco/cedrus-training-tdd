@@ -53,6 +53,10 @@ LolCat service.  Translate from English to LolCat. Store a local cached dictiona
 
 * Matt Johnson (src-system42)
 
+## Credits
+
+* [Speak Lolcat](http://speaklolcat.com/): THX
+
 ## Copyright
 
 MIT (c) 2018 Cedrus, LLC
