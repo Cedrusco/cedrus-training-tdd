@@ -1,6 +1,6 @@
 {
   "name": "cedrus-training-tdd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cedrus project to facilitate learning TDD",
   "main": "index.js",
   "scripts": {
