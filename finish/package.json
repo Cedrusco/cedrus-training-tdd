@@ -21,7 +21,7 @@
   "author": "Matt Johnson (src-system42)",
   "license": "MIT",
   "devDependencies": {
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.7.7",
     "istanbul": "^0.4.5",
     "jasmine-node": "^3.0.0",
     "nock": "^9.2.5"
